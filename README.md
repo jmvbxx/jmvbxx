@@ -34,6 +34,7 @@ Security always remains paramount and sane defaults are my prime motivator, espe
 
 ### :writing_hand: Blog Posts :
 
+- [Upgrading systemd on Amazon Linux 2](https://medium.com/@jbornhoft/upgrading-systemd-on-amazon-linux-2-70c7532b6580)
 - [How to test User login using Devise and Rails 7 test controllers](https://medium.com/@jbornhoft/how-to-test-user-login-using-devise-and-rails-7-test-controllers-8b3e3c638ac4)
 - [Terraform S3 Backend Best Practices](https://technology.doximity.com/articles/terraform-s3-backend-best-practices)
 
